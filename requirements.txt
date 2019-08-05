@@ -1,0 +1,2 @@
+-e git://github.com/vulnersCom/api.git #Vulners Python Wrapper
+xlrd
